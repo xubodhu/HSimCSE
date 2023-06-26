@@ -1,0 +1,9 @@
+transformers==4.24.0
+scipy
+datasets==2.6.1
+pandas
+scikit-learn
+prettytable
+gradio
+torch==1.13.0
+setuptools
